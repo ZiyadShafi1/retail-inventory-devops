@@ -1,0 +1,13 @@
+
+**/bin/
+**/obj/
+.vs/
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
