@@ -45,3 +45,5 @@ app.Run();
 
 // Product data structure
 record Product(int Id, string Name, decimal Price, int Stock);
+
+public partial class Program { }
